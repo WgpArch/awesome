@@ -1,4 +1,4 @@
-# Awesome WM Dotfiles
+\# Awesome WM Dotfiles
 
 <div align="center">
 
@@ -12,6 +12,20 @@
 <br><br>
 
 Highly configurable, dynamic window manager for X11 on Arch Linux.
+
+---
+
+## 📖 Official Documentation
+
+**Full documentation, installation guides, and configuration details are available here:**
+
+👉 **[https://wgparch.github.io/dotfiles/awesome/](https://wgparch.github.io/dotfiles/awesome/)**
+👉 **[GitHub Pages](https://wgparch.github.io/dotfiles/awesome/)**  
+👉 **[GitLab Pages](https://wgparch.gitlab.io/awesome/)**  
+👉 **[Codeberg Pages](https://wgparch.codeberg.page/awesome/)**
+
+---
+---
 
 </div>
 
